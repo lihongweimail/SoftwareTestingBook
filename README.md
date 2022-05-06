@@ -42,14 +42,12 @@
 #### 第7章 元宇宙支撑基础软件测试技术
 元宇宙操作系统、元宇宙的开发语言及其库、元宇宙的数据库等基础软件的测试
 #### 第8章 自动化测试软件的使用技术
-	1.各类自动化测试技术介绍
-	2.各类自动化测试工具的介绍
-  WEB测试(如Python +selenium 框架等)
-  3. 自动化测试框架：
-   理论： ●基于模块的测试框架 ●测试库架构框架 ●数据驱动测试框架 ●关键字驱动测试框架 ●混合测试框架 ●行为驱动开发框架
-   十大自动化测试框架：见：https://zhuanlan.zhihu.com/p/457528559 
-   1.机器人框架  2.网络驱动（WebDriverIO） 3.Citrus 4.Cypress 5.Selenium 6. Cucumber 7.Gauge 8.Serenity 9.Carina 10.ZTF
-    
+   1.各类自动化测试技术介绍
+   2.各类自动化测试工具的介绍 WEB测试(如Python +selenium 框架等)
+   3. 自动化测试框架：
+    理论： ●基于模块的测试框架 ●测试库架构框架 ●数据驱动测试框架 ●关键字驱动测试框架 ●混合测试框架 ●行为驱动开发框架
+    十大自动化测试框架：见：https://zhuanlan.zhihu.com/p/457528559 
+    1.机器人框架  2.网络驱动（WebDriverIO） 3.Citrus 4.Cypress 5.Selenium 6. Cucumber 7.Gauge 8.Serenity 9.Carina 10.ZTF
     自动化测试框架总结：https://www.jianshu.com/p/7239eff75e68 
     自动化测试框架知识 https://zhuanlan.zhihu.com/p/163105405
 
